@@ -1,0 +1,7 @@
+D:\PR04\PR04\bin\Debug\PR04.exe.config
+D:\PR04\PR04\bin\Debug\PR04.exe
+D:\PR04\PR04\bin\Debug\PR04.pdb
+D:\PR04\PR04\obj\Debug\PR04.csproj.AssemblyReference.cache
+D:\PR04\PR04\obj\Debug\PR04.csproj.CoreCompileInputs.cache
+D:\PR04\PR04\obj\Debug\PR04.exe
+D:\PR04\PR04\obj\Debug\PR04.pdb
