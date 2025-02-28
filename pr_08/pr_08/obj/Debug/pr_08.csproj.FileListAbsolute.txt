@@ -1,0 +1,7 @@
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_08\pr_08\bin\Debug\pr_08.exe.config
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_08\pr_08\bin\Debug\pr_08.exe
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_08\pr_08\bin\Debug\pr_08.pdb
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_08\pr_08\obj\Debug\pr_08.csproj.AssemblyReference.cache
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_08\pr_08\obj\Debug\pr_08.csproj.CoreCompileInputs.cache
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_08\pr_08\obj\Debug\pr_08.exe
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_08\pr_08\obj\Debug\pr_08.pdb
