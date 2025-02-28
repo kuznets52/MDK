@@ -1,0 +1,24 @@
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_07\pr_07\obj\Debug\pr_07.csproj.AssemblyReference.cache
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_07\pr_07\obj\Debug\pr_07.csproj.CoreCompileInputs.cache
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_07\pr_07\bin\Debug\Input1.txt
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_07\pr_07\bin\Debug\pr_07.exe.config
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_07\pr_07\bin\Debug\pr_07.exe
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_07\pr_07\bin\Debug\pr_07.pdb
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_07\pr_07\obj\Debug\pr_07.exe
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_07\pr_07\obj\Debug\pr_07.pdb
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_07\pr_07\bin\Debug\Input2.txt
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_07\pr_07\bin\Debug\Input3.txt
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_07\pr_07\bin\Debug\input4.txt
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_07\pr_07\bin\Debug\input5.txt
+C:\Users\Егор\Desktop\pr_07\pr_07\bin\Debug\input1.txt
+C:\Users\Егор\Desktop\pr_07\pr_07\bin\Debug\input2.txt
+C:\Users\Егор\Desktop\pr_07\pr_07\bin\Debug\input3.txt
+C:\Users\Егор\Desktop\pr_07\pr_07\bin\Debug\input4.txt
+C:\Users\Егор\Desktop\pr_07\pr_07\bin\Debug\input5.txt
+C:\Users\Егор\Desktop\pr_07\pr_07\bin\Debug\pr_07.exe.config
+C:\Users\Егор\Desktop\pr_07\pr_07\bin\Debug\pr_07.exe
+C:\Users\Егор\Desktop\pr_07\pr_07\bin\Debug\pr_07.pdb
+C:\Users\Егор\Desktop\pr_07\pr_07\obj\Debug\pr_07.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\pr_07\pr_07\obj\Debug\pr_07.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\pr_07\pr_07\obj\Debug\pr_07.exe
+C:\Users\Егор\Desktop\pr_07\pr_07\obj\Debug\pr_07.pdb
