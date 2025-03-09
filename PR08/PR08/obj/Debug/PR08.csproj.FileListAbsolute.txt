@@ -1,0 +1,7 @@
+D:\PR08\PR08\obj\Debug\PR08.csproj.AssemblyReference.cache
+D:\PR08\PR08\obj\Debug\PR08.csproj.CoreCompileInputs.cache
+D:\PR08\PR08\bin\Debug\PR08.exe.config
+D:\PR08\PR08\bin\Debug\PR08.exe
+D:\PR08\PR08\bin\Debug\PR08.pdb
+D:\PR08\PR08\obj\Debug\PR08.exe
+D:\PR08\PR08\obj\Debug\PR08.pdb
