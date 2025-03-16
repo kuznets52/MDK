@@ -1,0 +1,14 @@
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_11\pr_11\bin\Debug\pr_11.exe.config
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_11\pr_11\bin\Debug\pr_11.exe
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_11\pr_11\bin\Debug\pr_11.pdb
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_11\pr_11\obj\Debug\pr_11.csproj.AssemblyReference.cache
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_11\pr_11\obj\Debug\pr_11.csproj.CoreCompileInputs.cache
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_11\pr_11\obj\Debug\pr_11.exe
+C:\Users\БРУСКА МИНИКАН НА68в\OneDrive\Desktop\C#\pr_11\pr_11\obj\Debug\pr_11.pdb
+C:\Users\Егор\Desktop\pr_11\pr_11\obj\Debug\pr_11.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\pr_11\pr_11\obj\Debug\pr_11.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\pr_11\pr_11\obj\Debug\pr_11.exe
+C:\Users\Егор\Desktop\pr_11\pr_11\obj\Debug\pr_11.pdb
+C:\Users\Егор\Desktop\pr_11\pr_11\bin\Debug\pr_11.exe.config
+C:\Users\Егор\Desktop\pr_11\pr_11\bin\Debug\pr_11.exe
+C:\Users\Егор\Desktop\pr_11\pr_11\bin\Debug\pr_11.pdb
