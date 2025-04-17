@@ -1,0 +1,7 @@
+D:\PRKIPOMDK\PR17\PR17\bin\Debug\PR17.exe.config
+D:\PRKIPOMDK\PR17\PR17\bin\Debug\PR17.exe
+D:\PRKIPOMDK\PR17\PR17\bin\Debug\PR17.pdb
+D:\PRKIPOMDK\PR17\PR17\obj\Debug\PR17.csproj.AssemblyReference.cache
+D:\PRKIPOMDK\PR17\PR17\obj\Debug\PR17.csproj.CoreCompileInputs.cache
+D:\PRKIPOMDK\PR17\PR17\obj\Debug\PR17.exe
+D:\PRKIPOMDK\PR17\PR17\obj\Debug\PR17.pdb
