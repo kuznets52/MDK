@@ -1,0 +1,11 @@
+D:\PRKIPOMDK\PR18\PR18\bin\Debug\PR18.exe.config
+D:\PRKIPOMDK\PR18\PR18\bin\Debug\PR18.exe
+D:\PRKIPOMDK\PR18\PR18\bin\Debug\PR18.pdb
+D:\PRKIPOMDK\PR18\PR18\obj\Debug\PR18.csproj.AssemblyReference.cache
+D:\PRKIPOMDK\PR18\PR18\obj\Debug\PR18.Form1.resources
+D:\PRKIPOMDK\PR18\PR18\obj\Debug\PR18.Properties.Resources.resources
+D:\PRKIPOMDK\PR18\PR18\obj\Debug\PR18.csproj.GenerateResource.cache
+D:\PRKIPOMDK\PR18\PR18\obj\Debug\PR18.csproj.CoreCompileInputs.cache
+D:\PRKIPOMDK\PR18\PR18\obj\Debug\PR18.exe
+D:\PRKIPOMDK\PR18\PR18\obj\Debug\PR18.pdb
+D:\PRKIPOMDK\PR18\PR18\obj\Debug\PR18.Form2.resources
